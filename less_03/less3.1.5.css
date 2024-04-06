@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+header{
+    height: 20vh;
+    background: #D9D9D9;
+}
+.main{
+    height: 80vh;
+    display: flex;
+}
+.left{
+    height: 100%;
+    width: 50vw;
+    background: #979796;
+}
+.right{
+    height: 100%;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+.top{
+    height: 50%;
+    width: 100%;
+    background: #78786F;
+}
+.bottom{
+    height: 50%;
+    width: 100%;
+    background: #4F504A;
+}

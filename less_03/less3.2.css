@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+p{
+    margin: 10px;
+    text-align: center;
+}
+h2{
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    margin: 50px 50px 50px 50px;
+    color: black;
+}
+section{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+#top{
+    background-color: #22bd8c;
+}
+#center{
+    background-color: #1547c7;
+}
+#bottom{
+    background-color: #bd882b;
+}
