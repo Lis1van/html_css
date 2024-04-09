@@ -55,7 +55,7 @@ h1{
 .center{
     width: 100%;
     height: 1018px;
-    /*background: url("less_04_file/Rectangle4.png") lightgray 50% / cover no-repeat;*/
+    background: url("less_04_file/Rectangle4.png") lightgray 50% / cover no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -64,7 +64,7 @@ h1{
 .bottom{
     width: 100%;
     height: 1029px;
-    /*background: url("less_04_file/Rectangle16.png") lightgray 50% / cover no-repeat;*/
+    background: url("less_04_file/Rectangle16.png") lightgray 50% / cover no-repeat;
     display: flex;
     justify-content: space-around;
     align-items: center;
