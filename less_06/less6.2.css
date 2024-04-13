@@ -1,0 +1,40 @@
+body{
+    margin: 5px;
+}
+div{
+    width: 98vw;
+    height: 98vh;
+    display: flex;
+    flex-direction: column;
+}
+.box_a{
+    height: 30vh;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom{
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+}
+.box_b{
+    width: 80vw;
+    margin: 5px 5px 0 0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_c{
+    width: 20vw;
+    margin: 5px 0 0 0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_a, .box_b, .box_c{
+    background-color: #8E8E8E;
+}

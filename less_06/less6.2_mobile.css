@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px) {
+    .bottom{
+        flex-direction: column;
+    }
+    .box_a{
+        height: 20vh;
+    }
+    .box_b{
+        width: 100%;
+        height: 60vh;
+    }
+    .box_c{
+        width: 100%;
+        height: 20vh;
+    }
+}

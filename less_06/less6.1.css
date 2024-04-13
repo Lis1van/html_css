@@ -3,7 +3,6 @@ body{
 }
 .main>header, div, footer{
     border-radius: 10px;
-    /*border: 1px solid #035139;*/
 }
 header{
     display: flex;
