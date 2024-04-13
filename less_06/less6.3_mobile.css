@@ -1,0 +1,25 @@
+@media screen and (max-width: 600px) {
+    .top{
+        width: 97vw;
+        height: 10vh;
+    }
+    .bottom{
+        flex-wrap: wrap;
+    }
+    .box_top{
+        height: 55vh;
+    }
+    .box_section{
+        height: 20vh;
+    }
+    .box_left{
+        width: 100%;
+    }
+    section{
+        height: 20vh;
+    }
+    .bot_right{
+        width: 97vw;
+        height: 10vh;
+    }
+}
